@@ -74,13 +74,13 @@ In the future, I'd love to work as a developer in a company where I can combine 
   </tbody>
 </table>
 
----
-
 ## 📊 Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Delphine-H)](https://github.com/Delphine-H/github-readme-stats)
 
 
+
+<!--
 **Delphine-H/Delphine-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
