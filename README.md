@@ -26,6 +26,55 @@ I love creating programs and finding innovative solutions to complex problems. I
 
 In the future, I'd love to work as a developer in a company where I can combine my skills in both IT and logistics to create innovative and efficient solutions.
 
+<!-- Current & Future Learning Table with Centered Images -->
+##Current & Future Learning</h1>
+
+<p>Below is a table of languages and technologies I am currently learning and plan to learn in the future:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Currently Learning</th>
+      <th>Future Learning</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><center><img src="https://skillicons.dev/icons?i=c" /></center></td>
+      <td align="center"><center><img src="https://skillicons.dev/icons?i=docker" /></center></td>
+    </tr>
+    <tr>
+      <td align="center"><center><img src="https://skillicons.dev/icons?i=bash" /></center></td>
+      <td align="center"><center><img src="https://skillicons.dev/icons?i=django"/></center></td>
+    </tr>
+    <tr>
+      <td align="center"><center><img src="https://skillicons.dev/icons?i=py" /></center></td>
+      <td align="center"><center><img src="https://skillicons.dev/icons?i=javascript" /></center></td>
+    </tr>
+    <tr>
+      <td align="center"><center><img src="https://skillicons.dev/icons?i=html" /></center></td>
+      <td align="center"><center><img src="https://skillicons.dev/icons?i=css" /></center></td>
+    </tr>
+    <tr>
+      <td align="center"><center><img src="https://skillicons.dev/icons?i=vscode" /></center></td>
+      <td align="center"><center><img src="https://skillicons.dev/icons?i=mysql" /></center></td>
+    </tr>
+    <tr>
+      <td align="center"><center><img src="https://skillicons.dev/icons?i=git" /></center></td>
+      <td align="center"><center><img src="https://skillicons.dev/icons?i=cs" /></center></td>
+    </tr>
+    <tr>
+      <td align="center"><center><img src="https://skillicons.dev/icons?i=emacs" /></center></td>
+      <td align="center"><center><img src="https://skillicons.dev/icons?i=arduino" /></center></td>
+    </tr>
+    <tr>
+      <td align="center"><center><img src="https://skillicons.dev/icons?i=vim" /></center></td>
+      <td align="center"><center><img src="https://skillicons.dev/icons?i=raspberrypi" /></center></td>
+    </tr>
+  </tbody>
+</table>
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Delphine-H)](https://github.com/Delphine-H/github-readme-stats)
 <!--
 ### Hi there 👋
