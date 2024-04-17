@@ -27,7 +27,7 @@ I love creating programs and finding innovative solutions to complex problems. I
 In the future, I'd love to work as a developer in a company where I can combine my skills in both IT and logistics to create innovative and efficient solutions.
 
 <!-- Current & Future Learning Table with Centered Images -->
-## Current & Future Learning</h1>
+## 📚 Current & Future Learning
 
 <p>Below is a table of languages and technologies I am currently learning and plan to learn in the future:</p>
 
@@ -74,10 +74,11 @@ In the future, I'd love to work as a developer in a company where I can combine 
   </tbody>
 </table>
 
+---
+
+## 📊 Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Delphine-H)](https://github.com/Delphine-H/github-readme-stats)
-<!--
-### Hi there 👋
 
 
 **Delphine-H/Delphine-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
