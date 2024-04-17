@@ -27,7 +27,7 @@ I love creating programs and finding innovative solutions to complex problems. I
 In the future, I'd love to work as a developer in a company where I can combine my skills in both IT and logistics to create innovative and efficient solutions.
 
 <!-- Current & Future Learning Table with Centered Images -->
-##Current & Future Learning</h1>
+## Current & Future Learning</h1>
 
 <p>Below is a table of languages and technologies I am currently learning and plan to learn in the future:</p>
 
