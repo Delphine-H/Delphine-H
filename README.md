@@ -81,7 +81,7 @@ In the future, I'd love to work as a developer in a company where I can combine 
 ## 🏆 Online Competition Badges
 
 ### Codewars
-[![CodeWars badge](https://www.codewars.com/users/Delphine59/badges/large)]
+![CodeWars badge](https://www.codewars.com/users/Delphine59/badges/large)
 
 <!--
 **Delphine-H/Delphine-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
